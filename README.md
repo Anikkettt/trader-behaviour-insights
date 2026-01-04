@@ -37,18 +37,18 @@ Matplotlib / Seaborn
 Jupyter Notebook
 
 5. Key Insights
-1. Profitability increases during Greed periods
+   Profitability increases during Greed periods
 Traders earn higher average PnL when market sentiment is optimistic.
-2. More losses occur during Fear
+   More losses occur during Fear
 Choppy price action and uncertainty reduce trade success during Fear.
-3. Win rate is significantly higher in Greed
+   Win rate is significantly higher in Greed
 Clear market direction boosts trading performance.
-4. Traders use higher leverage during Greed
+   Traders use higher leverage during Greed
 Risk-taking behavior increases during market optimism.
-5. Long vs Short behavior
+   Long vs Short behavior
 Long positions perform best in Greed.
 Short positions perform best in Fear.
-6. Behavioral biases observed
+   Behavioral biases observed
 Trend-chasing behavior in Greed.
 Defensive, risk-averse trading in Fear.
 Overconfidence drives high leverage in Greed.
